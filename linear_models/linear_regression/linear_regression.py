@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 from linear_models.linear_regression.metric import Metric
-from linear_models.linear_regression.regularization import Regularization
+from linear_models.regularization import Regularization
 
 
 class MyLineReg:
