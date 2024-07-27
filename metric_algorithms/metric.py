@@ -1,6 +1,6 @@
 import numpy as np
 
-from metric_algorithms.knn_classification.utils import Getter
+from metric_algorithms.utils import Getter
 
 
 class Metric(Getter):

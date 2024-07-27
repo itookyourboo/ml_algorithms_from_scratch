@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from metric_algorithms.knn_classification.metric import Metric
+from metric_algorithms.metric import Metric
 from metric_algorithms.knn_classification.weight import Weight
 
 
